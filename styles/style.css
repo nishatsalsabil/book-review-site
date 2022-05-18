@@ -1,0 +1,27 @@
+header {
+    border: dashed red;
+    background-color: #009e9e;
+}
+
+footer {
+    border: thick double;
+    background-color: #b58ee9;
+}
+
+body {
+    background-color: #c4d4a0;
+    font: Helvetica;
+}
+
+h3 {
+    font-style: italic;
+}
+
+a {
+    color: rgb(22, 27, 178)
+}
+
+a:hover {
+    background-color: yellow;
+}
+
